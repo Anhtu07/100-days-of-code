@@ -8,3 +8,13 @@
 
 **Link(s) to work**
 1. https://www.freecodecamp.com/challenges/turn-an-image-into-a-link
+
+
+### Day 2: April 18, Tuesday
+
+**Today's Progress**: Continues learning HTML: div, form, input, label element. CSS inheritance and body of a HTML page.
+
+**Thoughts** It's fun.
+
+**Link(s) to work**
+1. https://www.freecodecamp.com/challenges/inherit-styles-from-the-body-element
