@@ -18,3 +18,14 @@
 
 **Link(s) to work**
 1. https://www.freecodecamp.com/challenges/inherit-styles-from-the-body-element
+
+
+
+### Day 3: April 19, Wenesday
+
+**Today's Progress**: CSS overide order: last class declared - id style - !important. Learning responsive design with bootstrap
+
+**Thoughts** Learning a few new stuff is cool.
+
+**Link(s) to work**
+1. https://www.freecodecamp.com/challenges/add-font-awesome-icons-to-our-buttons
