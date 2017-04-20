@@ -20,7 +20,6 @@
 1. https://www.freecodecamp.com/challenges/inherit-styles-from-the-body-element
 
 
-
 ### Day 3: April 19, Wenesday
 
 **Today's Progress**: CSS overide order: last class declared - id style - !important. Learning responsive design with bootstrap
@@ -29,3 +28,13 @@
 
 **Link(s) to work**
 1. https://www.freecodecamp.com/challenges/add-font-awesome-icons-to-our-buttons
+
+
+### Day 4: April 20, Thursday
+
+**Today's Progress**: Learn a few more class of Bootstrap. Start learning JQuerry. Revision of previous HTML lessons.
+
+**Thoughts** Hanoi turned to summer today. Hot like hell!
+
+**Link(s) to work**
+1. https://www.freecodecamp.com/challenges/learn-how-script-tags-and-document-ready-work
