@@ -38,3 +38,13 @@
 
 **Link(s) to work**
 1. https://www.freecodecamp.com/challenges/learn-how-script-tags-and-document-ready-work
+
+
+### Day 5: April 21, Friday
+
+**Today's Progress**: Understand more about JQuery. 3 way of target element in JQuery: by "type", by ".class" and by "#id. Starting a project of building a tribute page on codepen.
+
+**Thoughts** Gonna continues my work tommorrow. Feeling happy.
+
+**Link(s) to work**
+1. https://www.freecodecamp.com/challenges/build-a-tribute-page
