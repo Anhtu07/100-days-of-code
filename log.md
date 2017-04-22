@@ -48,3 +48,13 @@
 
 **Link(s) to work**
 1. https://www.freecodecamp.com/challenges/build-a-tribute-page
+
+
+### Day 6: April 22, Saturday
+
+**Today's Progress**: Half-way to finish my tribute page project.
+
+**Thoughts** Fortunately, I remember most of the syntax I have learned in the past few days.
+
+**Link(s) to work**
+1. https://codepen.io/Anhtu07/pen/aWZmqa?editors=1100
