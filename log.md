@@ -58,3 +58,13 @@
 
 **Link(s) to work**
 1. https://codepen.io/Anhtu07/pen/aWZmqa?editors=1100
+
+
+### Day 7: April 23, Sunday
+
+**Today's Progress**: Complete my tribute page challenge. Start to build a Personal Portfolio Webpage
+
+**Thoughts** 
+
+**Link(s) to work**
+1. https://codepen.io/Anhtu07/pen/aWZmqa?editors=1100
