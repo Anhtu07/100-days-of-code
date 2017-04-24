@@ -68,3 +68,13 @@
 
 **Link(s) to work**
 1. https://codepen.io/Anhtu07/pen/aWZmqa?editors=1100
+
+
+### Day 8: April 24, Monday
+
+**Today's Progress**: Building a Personal Portfolio Webpage. Learning to use bootstrap navbar class.
+
+**Thoughts** Struggling to figure out the example web was made. Dont know what difference between nav class and making a bunch of div with class row. Copy code on the internet just don't give me the expect result. What a day.
+
+**Link(s) to work**
+1. https://codepen.io/Anhtu07/pen/qmaVra?editors=1100
