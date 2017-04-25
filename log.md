@@ -78,3 +78,13 @@
 
 **Link(s) to work**
 1. https://codepen.io/Anhtu07/pen/qmaVra?editors=1100
+
+
+### Day 9: April 25, Tuesday
+
+**Today's Progress**: Finish the form of my page. Make the page change to the right part of the website when click on "about", "portfolio" and "contact".
+
+**Thoughts** Using navbar just don't work so i use css to make my header look as much as it's made by nav as possible. Dont know how to make header fixed when scolling (position: fixed completely change the size of my header, which i dont know why) and JQuerry not running. Gonna read more tommorrow
+
+**Link(s) to work**
+1. https://codepen.io/Anhtu07/pen/qmaVra?editors=1100
