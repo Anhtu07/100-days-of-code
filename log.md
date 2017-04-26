@@ -88,3 +88,13 @@
 
 **Link(s) to work**
 1. https://codepen.io/Anhtu07/pen/qmaVra?editors=1100
+
+
+### Day 10: April 26, Wenesday
+
+**Today's Progress**: Make the header fixed when scrolling. But the page breaks when it gets small.
+
+**Thoughts** Dont know how to make a horizontal navbar.
+
+**Link(s) to work**
+1. https://codepen.io/Anhtu07/pen/qmaVra?editors=1100
