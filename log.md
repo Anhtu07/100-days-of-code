@@ -98,3 +98,13 @@
 
 **Link(s) to work**
 1. https://codepen.io/Anhtu07/pen/qmaVra?editors=1100
+
+
+### Day 11: April 27, Thursday
+
+**Today's Progress**: Adding a image and little profile. Make nav-bar horizontal but it doesn't reach to full width.
+
+**Thoughts** 
+
+**Link(s) to work**
+1. https://codepen.io/Anhtu07/pen/qmaVra?editors=1100
