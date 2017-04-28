@@ -108,3 +108,13 @@
 
 **Link(s) to work**
 1. https://codepen.io/Anhtu07/pen/qmaVra?editors=1100
+
+
+### Day 12: April 28, Friday
+
+**Today's Progress**: Redecorate header. Adding input textholder and send button to contact.
+
+**Thoughts** Struggling with nav-bar takes a lot of time until i decide not to use it anymore.
+
+**Link(s) to work**
+1. https://codepen.io/Anhtu07/pen/qmaVra?editors=1100
