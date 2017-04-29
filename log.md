@@ -118,3 +118,13 @@
 
 **Link(s) to work**
 1. https://codepen.io/Anhtu07/pen/qmaVra?editors=1100
+
+
+### Day 13: April 29, Saturday
+
+**Today's Progress**: Adding icon link to my social accounts and footer of the page.
+
+**Thoughts** Almost finish. I think tommorrow will complete my page.
+
+**Link(s) to work**
+1. https://codepen.io/Anhtu07/pen/qmaVra?editors=1100
