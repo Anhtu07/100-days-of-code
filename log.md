@@ -128,3 +128,14 @@
 
 **Link(s) to work**
 1. https://codepen.io/Anhtu07/pen/qmaVra?editors=1100
+
+
+### Day 14: April 30, Sunday
+
+**Today's Progress**: Making image resize when page resize, redecorate anđ complete my portfolio page. Create github page. Start learning javascript
+
+**Thoughts** Never, ever going to Hoan Kiem lake on vacation.
+
+**Link(s) to work**
+1. https://codepen.io/Anhtu07/pen/qmaVra
+2. https://www.freecodecamp.com/challenges/quoting-strings-with-single-quotes
