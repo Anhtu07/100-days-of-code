@@ -148,4 +148,5 @@
 **Thoughts** Fifthteen days !
 
 **Link(s) to work**
-1. https://codepen.io/Anhtu07/pen/qmaVra
+1. https://anhtu07.github.io/
+2. https://www.freecodecamp.com/challenges/comparisons-with-the-logical-or-operator
