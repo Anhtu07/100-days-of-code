@@ -139,3 +139,13 @@
 **Link(s) to work**
 1. https://codepen.io/Anhtu07/pen/qmaVra
 2. https://www.freecodecamp.com/challenges/quoting-strings-with-single-quotes
+
+
+### Day 15: May 1, Monday
+
+**Today's Progress**: Continues learning javascript. Today lession about string (double quotes, single quotes and escape). push, pop, shift and unshift in array. Fix portfolio page: header top-padding, centering image, margin auto resize.
+
+**Thoughts** Fifthteen days !
+
+**Link(s) to work**
+1. https://codepen.io/Anhtu07/pen/qmaVra
