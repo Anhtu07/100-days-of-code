@@ -150,3 +150,13 @@
 **Link(s) to work**
 1. https://anhtu07.github.io/
 2. https://www.freecodecamp.com/challenges/comparisons-with-the-logical-or-operator
+
+
+### Day 16: May 1, Tuesday
+
+**Today's Progress**: Do more javascript excercises in freecodecamp. redecorate github page.
+
+**Thoughts** Make send button to actually send to my email seems convoluted, will come back later.
+
+**Link(s) to work**
+1. https://www.freecodecamp.com/challenges/using-objects-for-lookups
