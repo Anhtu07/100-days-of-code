@@ -152,7 +152,7 @@
 2. https://www.freecodecamp.com/challenges/comparisons-with-the-logical-or-operator
 
 
-### Day 16: May 1, Tuesday
+### Day 16: May 2, Tuesday
 
 **Today's Progress**: Do more javascript excercises in freecodecamp. redecorate github page.
 
@@ -160,3 +160,14 @@
 
 **Link(s) to work**
 1. https://www.freecodecamp.com/challenges/using-objects-for-lookups
+
+
+
+### Day 17: May 3, Wenesday
+
+**Today's Progress**: Do more javascript excercises in freecodecamp. Using <hr> for gitpage horizontal line, add max-height, max-width to img elements so they're enlarge when resize page.
+
+**Thoughts** 
+
+**Link(s) to work**
+1. https://www.freecodecamp.com/challenges/generate-random-fractions-with-javascript
