@@ -162,7 +162,6 @@
 1. https://www.freecodecamp.com/challenges/using-objects-for-lookups
 
 
-
 ### Day 17: May 3, Wenesday
 
 **Today's Progress**: Do more javascript excercises in freecodecamp. Using <hr> for gitpage horizontal line, add max-height, max-width to img elements so they're enlarge when resize page.
@@ -171,3 +170,13 @@
 
 **Link(s) to work**
 1. https://www.freecodecamp.com/challenges/generate-random-fractions-with-javascript
+
+
+### Day 18: May 4, Thursday
+
+**Today's Progress**: Learn a few more stuff about javascript array: map, reduce and filter. Do the first algorithm challenge of freecodecamp.
+
+**Thoughts** Have lots of word to do today. so only able to code for 1 hour.
+
+**Link(s) to work**
+1. https://www.freecodecamp.com/challenges/check-for-palindromes
