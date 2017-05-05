@@ -180,3 +180,13 @@
 
 **Link(s) to work**
 1. https://www.freecodecamp.com/challenges/check-for-palindromes
+
+
+### Day 19: May 5, Friday
+
+**Today's Progress**: Do 5 more basic algorithm excercise.
+
+**Thoughts** 
+
+**Link(s) to work**
+1. https://www.freecodecamp.com/challenges/check-for-palindromes
