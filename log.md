@@ -192,7 +192,6 @@
 1. https://www.freecodecamp.com/challenges/check-for-palindromes
 
 
-
 ### Day 20: May 6, Saturday
 
 **Today's Progress**: Complete first algorithm challege.
@@ -201,3 +200,13 @@
 
 **Link(s) to work**
 1. https://www.freecodecamp.com/challenges/caesars-cipher
+
+
+### Day 21: May 7, Sunday
+
+**Today's Progress**: Learning about JSON and API. Starting building my random quotes projects.
+
+**Thoughts** Don't know why my code doesn't run, even i copy the exact code for FreeCodeCamp, so tired ...
+
+**Link(s) to work**
+1. https://codepen.io/Anhtu07/pen/wdPpmG
