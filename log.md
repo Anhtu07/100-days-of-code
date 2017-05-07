@@ -190,3 +190,14 @@
 
 **Link(s) to work**
 1. https://www.freecodecamp.com/challenges/check-for-palindromes
+
+
+
+### Day 20: May 6, Saturday
+
+**Today's Progress**: Complete first algorithm challege.
+
+**Thoughts** Forgot to log my process yesterday...
+
+**Link(s) to work**
+1. https://www.freecodecamp.com/challenges/caesars-cipher
