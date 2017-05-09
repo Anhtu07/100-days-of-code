@@ -210,3 +210,13 @@
 
 **Link(s) to work**
 1. https://codepen.io/Anhtu07/pen/wdPpmG
+
+
+### Day 22: May 8, Monday
+
+**Today's Progress**: The only things i do is make my jquerry work, but don't know how to getJSON from website or anything that makes me get the quotes from a website.
+
+**Thoughts** Don't know where to continues.
+
+**Link(s) to work**
+1. https://codepen.io/Anhtu07/pen/wdPpmG
