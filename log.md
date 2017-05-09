@@ -220,3 +220,13 @@
 
 **Link(s) to work**
 1. https://codepen.io/Anhtu07/pen/wdPpmG
+
+
+### Day 23: May 9, Tuesday
+
+**Today's Progress**: Struggle with how to get quotes from other website.
+
+**Thoughts** I try to search-read-ask but find nowhere that can answer my problem. Maybe try harder tomorrow.
+
+**Link(s) to work**
+1. https://codepen.io/Anhtu07/pen/wdPpmG
