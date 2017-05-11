@@ -230,3 +230,13 @@
 
 **Link(s) to work**
 1. https://codepen.io/Anhtu07/pen/wdPpmG
+
+
+### Day 24: May 10, Wenesday
+
+**Today's Progress**: Make data for my own quotes.
+
+**Thoughts** Come back and read about API later
+
+**Link(s) to work**
+1. https://codepen.io/Anhtu07/pen/wdPpmG
