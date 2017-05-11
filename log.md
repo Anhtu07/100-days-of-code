@@ -240,3 +240,13 @@
 
 **Link(s) to work**
 1. https://codepen.io/Anhtu07/pen/wdPpmG
+
+
+### Day 25: May 11, Thursday
+
+**Today's Progress**: Increase number of quotes. Add background-image and decorate.
+
+**Thoughts** I think i should get back and try using API
+
+**Link(s) to work**
+1. https://codepen.io/Anhtu07/pen/wdPpmG
