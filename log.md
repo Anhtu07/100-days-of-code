@@ -250,3 +250,13 @@
 
 **Link(s) to work**
 1. https://codepen.io/Anhtu07/pen/wdPpmG
+
+
+### Day 26: May 12, Friday
+
+**Today's Progress**: Increase number of quotes. Image change depends on the quotes but images are on different size.
+
+**Thoughts** I'm so hungryyyy.
+
+**Link(s) to work**
+1. https://codepen.io/Anhtu07/pen/wdPpmG
