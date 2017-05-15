@@ -260,3 +260,23 @@
 
 **Link(s) to work**
 1. https://codepen.io/Anhtu07/pen/wdPpmG
+
+
+### Day 27: May 13, Saturday
+
+**Today's Progress**: Complete my show randon quotes project. Begin my show local wheather project
+
+**Thoughts** Don't know what happened to me, i was so determined that i had logged my progress.
+
+**Link(s) to work**
+1. https://codepen.io/Anhtu07/pen/wdPpmG
+
+
+### Day 28: May 14, Sunday
+
+**Today's Progress**: Get API key and an url that return JSON containing information about wheather but got stuck with "Cross Origin Block"
+
+**Thoughts** Really frustrating.
+
+**Link(s) to work**
+1. https://codepen.io/Anhtu07/pen/KmRLPK?editors=0011
