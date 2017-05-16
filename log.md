@@ -292,7 +292,7 @@
 1. https://codepen.io/Anhtu07/pen/KmRLPK?editors=0011
 
 
-### Day 29: May 15, Monday
+### Day 30: May 16, Tuesday
 
 **Today's Progress**: Make header, pre-process data and only print out the neccessary ones.
 
