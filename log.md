@@ -280,3 +280,23 @@
 
 **Link(s) to work**
 1. https://codepen.io/Anhtu07/pen/KmRLPK?editors=0011
+
+
+### Day 29: May 15, Monday
+
+**Today's Progress**: Fix the CORS problem by only adding "?callback=?" and finally i can get json data about location and weather for my project.
+
+**Thoughts** Really satisfiable.
+
+**Link(s) to work**
+1. https://codepen.io/Anhtu07/pen/KmRLPK?editors=0011
+
+
+### Day 29: May 15, Monday
+
+**Today's Progress**: Make header, pre-process data and only print out the neccessary ones.
+
+**Thoughts** Have a lot of works to do today.
+
+**Link(s) to work**
+1. https://codepen.io/Anhtu07/pen/KmRLPK?editors=0011
