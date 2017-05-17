@@ -300,3 +300,14 @@
 
 **Link(s) to work**
 1. https://codepen.io/Anhtu07/pen/KmRLPK?editors=0011
+
+
+
+### Day 31: May 17, Wenesday
+
+**Today's Progress**: add background image, add animated weather icon.
+
+**Thoughts** I want to play Pokemon !
+
+**Link(s) to work**
+1. https://codepen.io/Anhtu07/pen/KmRLPK?editors=0011
