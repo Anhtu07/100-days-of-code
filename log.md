@@ -302,7 +302,6 @@
 1. https://codepen.io/Anhtu07/pen/KmRLPK?editors=0011
 
 
-
 ### Day 31: May 17, Wenesday
 
 **Today's Progress**: add background image, add animated weather icon.
@@ -311,3 +310,23 @@
 
 **Link(s) to work**
 1. https://codepen.io/Anhtu07/pen/KmRLPK?editors=0011
+
+
+### Day 32: May 18, Thursday
+
+**Today's Progress**: Almost complete this zipline. Only need to add the functionality that change between F and C degree.
+
+**Thoughts** Always feel awkward when have to write down my thought.
+
+**Link(s) to work**
+1. https://codepen.io/Anhtu07/pen/KmRLPK?editors=0011
+
+
+### Day 33: May 19, Friday
+
+**Today's Progress**: Complete my show local weahter app project. Start reading and do my new project -building wikipedia viewer.
+
+**Thoughts** Really happy that i can make this far
+
+**Link(s) to work**
+1. http://codepen.io/Anhtu07/pen/KmRLPK?editors=0010
