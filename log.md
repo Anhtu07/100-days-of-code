@@ -330,3 +330,24 @@
 
 **Link(s) to work**
 1. http://codepen.io/Anhtu07/pen/KmRLPK?editors=0010
+
+
+### Day 34: May 20, Saturday
+
+**Today's Progress**: Add gradient background; add link for random wikipedia article and a few css.
+
+**Thoughts** Have absolutely no idea how can i finish this project
+
+**Link(s) to work**
+1. http://codepen.io/Anhtu07/pen/rmLMzJ?editors=1010
+
+
+
+### Day 35: May 21, Sunday
+
+**Today's Progress**: Add text-box and placeholder; add button for search (but now only print current text in console) and also a few css
+
+**Thoughts** Still don't know what to do.
+
+**Link(s) to work**
+1. http://codepen.io/Anhtu07/pen/rmLMzJ?editors=1010
