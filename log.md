@@ -351,3 +351,24 @@
 
 **Link(s) to work**
 1. http://codepen.io/Anhtu07/pen/rmLMzJ?editors=1010
+
+
+### Day 36: May 22, Monday
+
+**Today's Progress**: Delete background gradient because white & gray look much better. change margin of text-box
+
+**Thoughts** Can't figure out why my code just don't work today. waste a lot of time and complish nothing
+
+**Link(s) to work**
+1. https://codepen.io/Anhtu07/pen/rmLMzJ?editors=0010
+
+
+
+### Day 37: May 23, Tuesday
+
+**Today's Progress**: Simply add "&callback=json" solve my problem. my page now can print title, description and link of the searched page to console.
+
+**Thoughts** The days after this day will be much more pleasure :)
+
+**Link(s) to work**
+1. https://codepen.io/Anhtu07/pen/rmLMzJ?editors=0010
