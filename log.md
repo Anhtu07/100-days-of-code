@@ -372,3 +372,12 @@
 
 **Link(s) to work**
 1. https://codepen.io/Anhtu07/pen/rmLMzJ?editors=0010
+
+
+### Day 38: May 24, Wenesday
+
+**Today's Progress**: My page start to function as a website for wiki search, but now hitting enter will not make the page return search content and i still want to make it look nicer.
+**Thoughts** Kinda happy today
+
+**Link(s) to work**
+1. https://codepen.io/Anhtu07/pen/rmLMzJ?editors=0010
