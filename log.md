@@ -381,3 +381,12 @@
 
 **Link(s) to work**
 1. https://codepen.io/Anhtu07/pen/rmLMzJ?editors=0010
+
+
+### Day 39: May 25, Thursday
+
+**Today's Progress**: Add event listener for enter key down.
+**Thoughts** Kinda happy today
+
+**Link(s) to work**
+1. https://codepen.io/Anhtu07/pen/rmLMzJ?editors=0010
