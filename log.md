@@ -390,3 +390,12 @@
 
 **Link(s) to work**
 1. https://codepen.io/Anhtu07/pen/rmLMzJ?editors=0010
+
+
+### Day 40: May 26, Friday
+
+**Today's Progress**: Finish my wiki viewer project. Start doing twitchtv zipline - add side nav bar.
+**Thoughts** Code is fun.
+
+**Link(s) to work**
+1. https://codepen.io/Anhtu07/pen/XRQeNg?editors=1010
