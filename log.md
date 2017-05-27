@@ -399,3 +399,12 @@
 
 **Link(s) to work**
 1. https://codepen.io/Anhtu07/pen/XRQeNg?editors=1010
+
+
+### Day 41: May 27, Saturday
+
+**Today's Progress**: Designing my website...
+**Thoughts** Still have no idea what's this zipline im doing gonna do :D
+
+**Link(s) to work**
+1. https://codepen.io/Anhtu07/pen/XRQeNg?editors=1010
