@@ -408,3 +408,21 @@
 
 **Link(s) to work**
 1. https://codepen.io/Anhtu07/pen/XRQeNg?editors=1010
+
+
+### Day 42: May 28, Sunday
+
+**Today's Progress**: Struggle a lot and do almost nothing ...
+**Thoughts** No idea how to get this twitch api
+
+**Link(s) to work**
+1. https://codepen.io/Anhtu07/pen/XRQeNg?editors=1010
+
+
+### Day 42: May 28, Sunday
+
+**Today's Progress**: Get json, make list of channel and get all information of those channel
+**Thoughts** Have a lot of exams coming up, so i can't only code very few these days
+
+**Link(s) to work**
+1. https://codepen.io/Anhtu07/pen/XRQeNg?editors=0010
