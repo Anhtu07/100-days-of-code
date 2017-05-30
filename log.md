@@ -419,10 +419,19 @@
 1. https://codepen.io/Anhtu07/pen/XRQeNg?editors=1010
 
 
-### Day 42: May 28, Sunday
+### Day 43: May 29, Monday
 
 **Today's Progress**: Get json, make list of channel and get all information of those channel
 **Thoughts** Have a lot of exams coming up, so i can't only code very few these days
 
 **Link(s) to work**
 1. https://codepen.io/Anhtu07/pen/XRQeNg?editors=0010
+
+
+### Day 44: May 30, Tuesday
+
+**Today's Progress**: do a few stuff
+**Thoughts** So tired today
+
+**Link(s) to work**
+1. https://codepen.io/Anhtu07/pen/XRQeNg?editors=0011
