@@ -435,3 +435,30 @@
 
 **Link(s) to work**
 1. https://codepen.io/Anhtu07/pen/XRQeNg?editors=0011
+
+
+### Day 45: May 31, Wenesday
+
+**Today's Progress**: Not so much, only do some css.
+**Thoughts** 
+
+**Link(s) to work**
+1. https://codepen.io/Anhtu07/pen/XRQeNg?editors=0011
+
+
+### Day 46: June 1, Thursday
+
+**Today's Progress**: make conressponding entry in channel_list and channel-json have the same index.
+**Thoughts** Almost complete my zipline. Just need a little more touch.
+
+**Link(s) to work**
+1. https://codepen.io/Anhtu07/pen/XRQeNg?editors=0011
+
+
+### Day 47: June 2, Friday
+
+**Today's Progress**: Channel now has its logo on the left.
+**Thoughts** Still need to fix so that the page will not break when being resized. And need little more redecorate.
+
+**Link(s) to work**
+1. https://codepen.io/Anhtu07/pen/XRQeNg?editors=0010
