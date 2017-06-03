@@ -462,3 +462,12 @@
 
 **Link(s) to work**
 1. https://codepen.io/Anhtu07/pen/XRQeNg?editors=0010
+
+
+### Day 48: June 3, Saturday
+
+**Today's Progress**: Finish another project !
+**Thoughts** Feel so happy la.
+
+**Link(s) to work**
+1. https://codepen.io/Anhtu07/pen/XRQeNg?editors=0110
