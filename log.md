@@ -471,3 +471,12 @@
 
 **Link(s) to work**
 1. https://codepen.io/Anhtu07/pen/XRQeNg?editors=0110
+
+
+### Day 49: June 4, Sunday
+
+**Today's Progress**: Do intermidate challeges of freecodecamp
+**Thoughts** So tired today, but i did a lot of things.
+
+**Link(s) to work**
+1. https://www.freecodecamp.com/challenges/roman-numeral-converter#?solution=%0Afunction convertToRoman(num) {%0A var roman %3D ""%3B%0A if (num >%3D 4000)%0A return%3B%0A else%0A {%0A var m %3D num %2F 1000%3B%0A for (var i %3D 0%3B i < m%3B i%2B%2B)%0A roman %2B%3D "M"%3B%0A num %3D num - m*1000%3B%0A }%0A %0A return roman%3B%0A}%0A%0AconvertToRoman(36)%3B%0A
