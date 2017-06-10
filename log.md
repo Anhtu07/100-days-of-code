@@ -489,3 +489,48 @@
 
 **Link(s) to work**
 1. https://www.freecodecamp.com/challenges/wherefore-art-thou
+
+
+### Day 51: June 6, Tuesday
+
+**Today's Progress**: Do Search and Replace challenge.
+**Thoughts** 
+
+**Link(s) to work**
+1. https://www.freecodecamp.com/challenges/search-and-replace
+
+
+### Day 52: June 7, Wenesday
+
+**Today's Progress**: Do Pig Latin challenge.
+**Thoughts** 
+
+**Link(s) to work**
+1. https://www.freecodecamp.com/challenges/pig-latin
+
+
+### Day 53: June 8, Thursday
+
+**Today's Progress**: Do DNA paring challenge.
+**Thoughts** 
+
+**Link(s) to work**
+1. https://www.freecodecamp.com/challenges/dna-pairing
+
+
+### Day 54: June 9, Friday
+
+**Today's Progress**: Do Missing letter and Boo Woo challenge.
+**Thoughts** 
+
+**Link(s) to work**
+1. https://www.freecodecamp.com/challenges/missing-letters
+
+
+### Day 55: June 10, Saturday
+
+**Today's Progress**: Do Sorted Union and Convert HTML Entities challenge.
+**Thoughts** 
+
+**Link(s) to work**
+1. https://www.freecodecamp.com/challenges/convert-html-entities
