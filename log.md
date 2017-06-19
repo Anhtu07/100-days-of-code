@@ -534,3 +534,21 @@
 
 **Link(s) to work**
 1. https://www.freecodecamp.com/challenges/convert-html-entities
+
+
+### Day 56: June 18, Sunday
+
+**Today's Progress**: Do 6 challenge of intemediate algorithm freecodecamp.
+**Thoughts** Gonna try harder for my break
+
+**Link(s) to work**
+1. https://www.freecodecamp.com/challenges/convert-html-entities
+
+
+### Day 57: June 19, Monday
+
+**Today's Progress**: Got stuck with proofing...
+**Thoughts** Got frustrated with NaN
+
+**Link(s) to work**
+1. https://www.freecodecamp.com/challenges/arguments-optional
