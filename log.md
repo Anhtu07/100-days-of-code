@@ -552,3 +552,12 @@
 
 **Link(s) to work**
 1. https://www.freecodecamp.com/challenges/arguments-optional
+
+
+### Day 58: June 20, Tuesday
+
+**Today's Progress**: Check a variable la ( la === la ), closure. Complete intermidate challege 
+**Thoughts** (Can I leave this part blank ? )
+
+**Link(s) to work**
+1. https://www.freecodecamp.com/challenges/arguments-optional
