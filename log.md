@@ -561,3 +561,21 @@
 
 **Link(s) to work**
 1. https://www.freecodecamp.com/challenges/arguments-optional
+
+
+### Day 59: June 21, Wenesday
+
+**Today's Progress**: Do first advanced algorithm challage - validate US telephone number
+**Thoughts** (Can I leave this part blank ? )
+
+**Link(s) to work**
+1. https://www.freecodecamp.com/challenges/validate-us-telephone-numbers
+
+
+### Day 60: June 22, Thursday
+
+**Today's Progress**: Do advanced algorithm challage - record collection
+**Thoughts** (Can I leave this part blank ? )
+
+**Link(s) to work**
+1. https://www.freecodecamp.com/challenges/record-collection
