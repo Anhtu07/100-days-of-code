@@ -579,3 +579,21 @@
 
 **Link(s) to work**
 1. https://www.freecodecamp.com/challenges/record-collection
+
+
+### Day 61: June 23, Friday
+
+**Today's Progress**: Do advanced algorithm challage - symmetric difference
+**Thoughts** (Can I leave this part blank ? )
+
+**Link(s) to work**
+1. https://www.freecodecamp.com/challenges/symmetric-difference
+
+
+### Day 62: June 24, Saturday
+
+**Today's Progress**: Do advanced algorithm challage - exact change
+**Thoughts** (Can I leave this part blank ? )
+
+**Link(s) to work**
+1. https://www.freecodecamp.com/challenges/exact-change
