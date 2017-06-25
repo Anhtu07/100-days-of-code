@@ -597,3 +597,12 @@
 
 **Link(s) to work**
 1. https://www.freecodecamp.com/challenges/exact-change
+
+
+### Day 63: June 25, Sunday
+
+**Today's Progress**: Do advanced algorithm challage - inventory update
+**Thoughts** (Can I leave this part blank ? )
+
+**Link(s) to work**
+1. https://www.freecodecamp.com/challenges/inventory-update
