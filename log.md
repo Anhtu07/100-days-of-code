@@ -606,3 +606,12 @@
 
 **Link(s) to work**
 1. https://www.freecodecamp.com/challenges/inventory-update
+
+
+### Day 64: June 26, Monday
+
+**Today's Progress**: Do advanced algorithm challage - no repeats
+**Thoughts** (Can I leave this part blank ? )
+
+**Link(s) to work**
+1. https://www.freecodecamp.com/challenges/no-repeats-please
