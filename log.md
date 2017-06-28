@@ -615,3 +615,21 @@
 
 **Link(s) to work**
 1. https://www.freecodecamp.com/challenges/no-repeats-please
+
+
+### Day 65: June 27, Tuesday
+
+**Today's Progress**: Do advanced algorithm challages - make a person & map the debris
+**Thoughts** (Can I leave this part blank ? )
+
+**Link(s) to work**
+1. https://www.freecodecamp.com/challenges/map-the-debris
+
+
+### Day 66: June 28, Wenesday
+
+**Today's Progress**: Do advanced algorithm challage - pairwise
+**Thoughts** (Can I leave this part blank ? )
+
+**Link(s) to work**
+1. https://www.freecodecamp.com/challenges/pairwise
