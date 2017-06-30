@@ -633,3 +633,12 @@
 
 **Link(s) to work**
 1. https://www.freecodecamp.com/challenges/pairwise
+
+
+### Day 67: June 29, Thursday
+
+**Today's Progress**: Start doing my calculator project.
+**Thoughts** I'm gonna make a pink vinacal :D
+
+**Link(s) to work**
+1. https://codepen.io/Anhtu07/pen/GEQPZR
