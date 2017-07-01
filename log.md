@@ -642,3 +642,21 @@
 
 **Link(s) to work**
 1. https://codepen.io/Anhtu07/pen/GEQPZR
+
+
+### Day 67: June 30, Friday
+
+**Today's Progress**: Make buttons
+**Thoughts** I'm gonna make a pink vinacal :D
+
+**Link(s) to work**
+1. https://codepen.io/Anhtu07/pen/GEQPZR
+
+
+### Day 68: July 1, Saturday
+
+**Today's Progress**: Make buttons and background
+**Thoughts** I'm gonna make a pink vinacal :D
+
+**Link(s) to work**
+1. https://codepen.io/Anhtu07/pen/GEQPZR
