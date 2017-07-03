@@ -660,3 +660,21 @@
 
 **Link(s) to work**
 1. https://codepen.io/Anhtu07/pen/GEQPZR
+
+
+### Day 69: July 2, Sunday
+
+**Today's Progress**: Fix my github.io page with headers and reading code for assignment 1 neural network 
+**Thoughts** 
+
+**Link(s) to work**
+1. https://codepen.io/Anhtu07/pen/qmaVra?editors=1100
+
+
+### Day 70: July 3, Monday
+
+**Today's Progress**: Add functionality for numeric buttons and clear button.
+**Thoughts** 
+
+**Link(s) to work**
+1. https://codepen.io/Anhtu07/pen/GEQPZR
