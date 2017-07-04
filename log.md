@@ -678,3 +678,12 @@
 
 **Link(s) to work**
 1. https://codepen.io/Anhtu07/pen/GEQPZR
+
+
+### Day 71: July 4, Tuesday
+
+**Today's Progress**: Add functionality for numeric buttons, equal button and change fonts.
+**Thoughts** 
+
+**Link(s) to work**
+1. https://codepen.io/Anhtu07/pen/GEQPZR
