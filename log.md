@@ -687,3 +687,13 @@
 
 **Link(s) to work**
 1. https://codepen.io/Anhtu07/pen/GEQPZR
+
+
+### Day 72: July 5, Wenesday
+
+**Today's Progress**: Numerical operation button now can chain many calculations, change fonts (again)
+**Thoughts** Almost finish my js calculator project.
+
+**Link(s) to work**
+1. https://codepen.io/Anhtu07/pen/GEQPZR
+
