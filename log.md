@@ -697,3 +697,11 @@
 **Link(s) to work**
 1. https://codepen.io/Anhtu07/pen/GEQPZR
 
+
+### Day 73: July 6, Thursday
+
+**Today's Progress**: Complete my javascript calculator project.
+**Thoughts** 
+
+**Link(s) to work**
+1. https://codepen.io/Anhtu07/pen/GEQPZR
