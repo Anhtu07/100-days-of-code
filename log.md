@@ -705,3 +705,12 @@
 
 **Link(s) to work**
 1. https://codepen.io/Anhtu07/pen/GEQPZR
+
+
+### Day 74: July 21, Friday
+
+**Today's Progress**: Start doing my podomo clock challege, make the bubble get filled little by little in a minute, but don't know how i can add text inside it yet
+**Thoughts** Have a lot to learn.
+
+**Link(s) to work** https://codepen.io/Anhtu07/pen/RgYMXV
+1. https://codepen.io/Anhtu07/pen/GEQPZR
