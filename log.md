@@ -732,3 +732,12 @@
 
 **Link(s) to work** https://codepen.io/Anhtu07/pen/RgYMXV
 1. https://codepen.io/Anhtu07/pen/GEQPZR
+
+
+### Day 76: July 23, Sunday
+
+**Today's Progress**: Solve the problem of yesterday, and trying to make my page have a nice looking
+**Thoughts** Tommorow I will make my page to be able to adjust the time of section.
+
+**Link(s) to work** https://codepen.io/Anhtu07/pen/RgYMXV
+1. https://codepen.io/Anhtu07/pen/GEQPZR
