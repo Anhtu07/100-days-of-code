@@ -741,3 +741,12 @@
 
 **Link(s) to work** 
 1. https://codepen.io/Anhtu07/pen/RgYMXV?editors=1010
+
+
+### Day 78: July 24, Monday
+
+**Today's Progress**: Change color and bubble fill up more nicely, loop function will stop running when it's full.
+**Thoughts** UP next, NN!!
+
+**Link(s) to work** 
+1. https://codepen.io/Anhtu07/pen/RgYMXV
