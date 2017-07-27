@@ -743,10 +743,28 @@
 1. https://codepen.io/Anhtu07/pen/RgYMXV?editors=1010
 
 
-### Day 78: July 24, Monday
+### Day 78: July 25, Tuesday
 
 **Today's Progress**: Change color and bubble fill up more nicely, loop function will stop running when it's full.
 **Thoughts** UP next, NN!!
 
 **Link(s) to work** 
 1. https://codepen.io/Anhtu07/pen/RgYMXV
+
+
+### Day 79: July 26, Wenesday
+
+**Today's Progress**: Place things nicely, change the font, and add buttons
+**Thoughts** seriously, i need to stop trying to do everything ...
+
+**Link(s) to work** 
+1. https://codepen.io/Anhtu07/pen/RgYMXV
+
+
+### Day 80: July 27, Thursday
+
+**Today's Progress**: buttons changes time now
+**Thoughts** I need weekends !!!
+
+**Link(s) to work** 
+1. https://codepen.io/Anhtu07/pen/RgYMXV?editors=0110
