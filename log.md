@@ -768,3 +768,13 @@
 
 **Link(s) to work** 
 1. https://codepen.io/Anhtu07/pen/RgYMXV?editors=0110
+
+
+### Day 81: July 28, Friday
+
+**Today's Progress**: buttons changes time now
+**Thoughts** I need weekends !!!
+
+**Link(s) to work** 
+1. https://codepen.io/Anhtu07/pen/RgYMXV?editors=0110
+
