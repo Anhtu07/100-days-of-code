@@ -778,3 +778,12 @@
 **Link(s) to work** 
 1. https://codepen.io/Anhtu07/pen/RgYMXV?editors=0110
 
+
+### Day 82: July 29, Saturday
+
+**Today's Progress**: change fonts and color, add button start to make time run only when it's clicked
+**Thoughts** trying to make the page look nicer but I'm not very satisfied
+
+**Link(s) to work** 
+1. https://codepen.io/Anhtu07/full/RgYMXV/
+
