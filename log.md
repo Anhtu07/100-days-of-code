@@ -787,3 +787,11 @@
 **Link(s) to work** 
 1. https://codepen.io/Anhtu07/full/RgYMXV/
 
+
+### Day 83: July 30, Sunday
+
+**Today's Progress**: session-time now can change, and clock can show the remaining time. Organize my code and also add a liitle text effect to the header
+**Thoughts** I think I just need another one or two days to complete this challege.
+
+**Link(s) to work** 
+1. https://codepen.io/Anhtu07/pen/RgYMXV
