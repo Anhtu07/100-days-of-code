@@ -805,3 +805,12 @@
 
 **Link(s) to work** 
 1. https://codepen.io/Anhtu07/pen/RgYMXV?editors=0011
+
+
+### Day 85: August 1, Tuesday
+
+**Today's Progress**: Complete my pomodoro challege.
+**Thoughts**
+
+**Link(s) to work** 
+1. https://codepen.io/Anhtu07/pen/RgYMXV?editors=0011
