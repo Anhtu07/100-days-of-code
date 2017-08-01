@@ -795,3 +795,13 @@
 
 **Link(s) to work** 
 1. https://codepen.io/Anhtu07/pen/RgYMXV
+
+
+
+### Day 84: July 31, Monday
+
+**Today's Progress**: Fix the bug that allows time can be negative. After sesstion finised, break time will countdown.
+**Thoughts** Just need a little work for the page to look nicer.
+
+**Link(s) to work** 
+1. https://codepen.io/Anhtu07/pen/RgYMXV?editors=0011
