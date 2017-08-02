@@ -814,3 +814,12 @@
 
 **Link(s) to work** 
 1. https://codepen.io/Anhtu07/pen/RgYMXV?editors=0011
+
+
+### Day 86: August 2, Wenesday
+
+**Today's Progress**: Set up for my tic tack game project.
+**Thoughts** This project gonna take a lot of time.
+
+**Link(s) to work** 
+1. https://codepen.io/Anhtu07/pen/zdBVPV
