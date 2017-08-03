@@ -823,3 +823,12 @@
 
 **Link(s) to work** 
 1. https://codepen.io/Anhtu07/pen/zdBVPV
+
+
+### Day 87: August 3, Thursday
+
+**Today's Progress**: Devide board into 9 pieces, add border for each pieces. Center the board. Learn how to set html when clicked.
+**Thoughts** This project gonna take a lot of time.
+
+**Link(s) to work** 
+1. https://codepen.io/Anhtu07/pen/zdBVPV
