@@ -832,3 +832,12 @@
 
 **Link(s) to work** 
 1. https://codepen.io/Anhtu07/pen/zdBVPV
+
+
+### Day 88: August 4, Friday
+
+**Today's Progress**: Change background to board-like color. Tick X and O when clicked
+**Thoughts** Not sure yet how to implement to check the board when there someone winning.
+
+**Link(s) to work** 
+1. https://codepen.io/Anhtu07/pen/zdBVPV
