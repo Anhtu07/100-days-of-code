@@ -841,3 +841,12 @@
 
 **Link(s) to work** 
 1. https://codepen.io/Anhtu07/pen/zdBVPV
+
+
+### Day 89: August 5, Saturday
+
+**Today's Progress**: Add functions that check the board wether there's a winning.
+**Thoughts** Still have a lot of things to do
+
+**Link(s) to work** 
+1. https://codepen.io/Anhtu07/pen/zdBVPV?editors=0011
