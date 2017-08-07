@@ -850,3 +850,21 @@
 
 **Link(s) to work** 
 1. https://codepen.io/Anhtu07/pen/zdBVPV?editors=0011
+
+
+### Day 90: August 6, Sunday
+
+**Today's Progress**: Add place for displaying the score.
+**Thoughts** Still have a lot of things to do
+
+**Link(s) to work** 
+1. https://codepen.io/Anhtu07/pen/zdBVPV?editors=0011
+
+
+### Day 91: August 7, Monday
+
+**Today's Progress**: Display number of winning for each player. Stop setting html when clicking many time on the square.
+**Thoughts** Need a function to reset when game is done and a mode for single player
+
+**Link(s) to work** 
+1. https://codepen.io/Anhtu07/pen/zdBVPV?editors=0011
